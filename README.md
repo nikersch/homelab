@@ -7,7 +7,7 @@ The homelab currently consists of the following hardware:
 
 ### Systems 🖥️
 - **Intel NUC i3 (8th gen)** 🔧
-  - 32GB Memory 💾
+  - 32GB RAM 💾
   - 512GB NVMe SSD 💽
 
 - **Intel Raspberry Pi 400** 🥧
